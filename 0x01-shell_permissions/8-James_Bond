@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod oo+rwx
+chmod 007
